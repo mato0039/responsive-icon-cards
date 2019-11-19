@@ -17,7 +17,7 @@ html {
   box-sizing: inherit;
 }
 
-.card-img {
+.card img {
   display: block;
   padding-bottom: 1.5rem;
   text-align: center;
@@ -35,13 +35,21 @@ html {
 }
 
 @media only screen and (min-width: 38em) {
+
   .cards {
     display: flex;
   }
+
 }
 
 @media only screen and (min-width: 90em) {
+
   .card {
     display: flex;
   }
+
+  .card img {
+    margin-right: .75rem;
+  }
+
 }
