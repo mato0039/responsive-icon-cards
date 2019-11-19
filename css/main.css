@@ -17,19 +17,24 @@ html {
   box-sizing: inherit;
 }
 
-.card img {
+.cards {
+  padding: 0;
+  list-style-type: none;
+}
+
+.card-img img {
   display: block;
   padding-bottom: 1.5rem;
   text-align: center;
   width: 50px;
 }
 
-.card h2 {
+.card-body h2 {
   font-weight: normal;
   margin: 0;
 }
 
-.card p {
+.card-body p {
   margin: 0;
   padding-bottom: 1.5rem;
 }
