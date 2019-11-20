@@ -29,16 +29,16 @@ html {
   text-align: center;
 }
 
-.card-img img {
+.card-img {
   width: 50px;
 }
 
-.card-body h2 {
+.cards h2 {
   font-weight: normal;
   margin: 0;
 }
 
-.card-body p {
+.cards p {
   margin: 0;
   padding-bottom: 1.3rem;
 }
