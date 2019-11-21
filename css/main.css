@@ -28,8 +28,12 @@ html {
   margin-bottom: .75rem;
 }
 
-.card-img img {
+.card-img {
   text-align: center;
+  padding-bottom: .75rem;
+}
+
+.card-img img {
   width: 50px;
 }
 
@@ -40,7 +44,7 @@ html {
 
 .card-body p {
   margin: 0;
-  padding-bottom: 1.3rem;
+  padding-bottom: 1rem;
 }
 
 @media only screen and (min-width: 38em) {
