@@ -33,12 +33,12 @@ html {
   width: 50px;
 }
 
-.cards h2 {
+.card-body h2 {
   font-weight: normal;
   margin: 0;
 }
 
-.cards p {
+.card-body p {
   margin: 0;
   padding-bottom: 1.3rem;
 }
