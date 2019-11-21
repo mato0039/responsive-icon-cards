@@ -26,10 +26,10 @@ html {
 .card {
   display: block;
   margin-bottom: .75rem;
-  text-align: center;
 }
 
-.card-img {
+.card-img img {
+  text-align: center;
   width: 50px;
 }
 
